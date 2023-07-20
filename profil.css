@@ -200,6 +200,7 @@ body{
     gap: 4rem;
     padding: 11px;
     margin: 22px;
+    padding-top: 8px;
   }
   
   .about-img img{
