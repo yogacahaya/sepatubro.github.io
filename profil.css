@@ -263,8 +263,8 @@ body{
 
 .container .card {
     position: relative;
-    width: 120px;
-    height: 250px;
+    width: 105px;
+    height: 150px;
     background: #232323;
     border-radius: 20px;
     overflow: hidden;
